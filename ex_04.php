@@ -1,3 +1,3 @@
 <?php
 
-unset($var);
+unset($myvar);
