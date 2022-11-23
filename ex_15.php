@@ -15,5 +15,5 @@ function student(string $name)
 $func_teacher='teacher';
 $func_student='student';
 
-$func_student('marco');
-$func_teacher();
+//$func_student('marco');
+//$func_teacher();
