@@ -2,5 +2,5 @@
 
 function print_variable($valeur)
 {
-    echo "variable = $valeur\n";
+    echo "variable = $valeur";
 }

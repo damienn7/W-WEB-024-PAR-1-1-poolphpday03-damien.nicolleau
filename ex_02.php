@@ -1,5 +1,5 @@
 <?php
 
-$helpers="Pangolins";
+$helpers="Pangolins\n";
 
-echo $helpers."\n";
+echo $helpers;
