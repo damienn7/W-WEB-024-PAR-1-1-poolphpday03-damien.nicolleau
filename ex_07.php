@@ -1,6 +1,6 @@
 <?php
 
-function print_something() : void
+function print_something()
 {
     print "Something\n";
 }
